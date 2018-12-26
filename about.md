@@ -12,5 +12,4 @@ Recently I finished my B.Tech degree from UIET Kanpur.
 
 ### Contact me
 
-[Mail](mailto:mit2018031@iiita.ac.in)
-[Alternate Mail](mailto:himanshus260@gmail.com)
+[mit2018031@iiita.ac.in]  [mailto:himanshus260@gmail.com]
