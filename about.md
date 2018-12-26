@@ -5,7 +5,7 @@ permalink: /about/
 ---
 I'm a curious CS graduate student exploring and trying to learn things well and also help others learn well. Recently, I'm more into Machine Learning and at times polishing my problem-solving skill.
 
-### More Information
+### Academics
 
 I'm currently pursuing M.Tech-I.T. with specialisation in Machine learning and Intelligent Systems at IIIT - Allahabad.
 Recently I finished my B.Tech degree from UIET Kanpur.
