@@ -3,13 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+I'm a curious CS graduate student exploring and trying to learn things well and also help others learn well. Recently, I'm more into Machine Learning and at times polishing my problem-solving skill.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently pursuing M.Tech-I.T. with specialisation in Machine learning and Intelligent Systems at IIIT - Allahabad.
+Recently I finished my B.Tech degree from UIET Kanpur.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:himanshus260@gmail.com)
+(mailto:mit2018031@iiita.ac.in)
