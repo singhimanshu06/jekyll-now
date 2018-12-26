@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I'm a curious CS graduate student exploring and trying to learn things well and also help others learn well. Recently, I'm more into Machine Learning and at times polishing my problem-solving skill.
+I'm a curious CS graduate student exploring and trying to learn things well and also help others learn well. Recently, I'm more into Machine Learning and at times brushing up my problem-solving skill.
 
 ### Academics
 
